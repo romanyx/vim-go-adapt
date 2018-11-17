@@ -1,6 +1,8 @@
 Use [adapt](https://github.com/romanyx/adapt) in Your Vim
 =========================================================
 
+![gif](example.gif)
+
 [adapt](https://github.com/romanyx/adapt) is a very handy tool to generate adapters for single method interfaces.
 This plugin is created to use [adapt](https://github.com/romanyx) in your Vim.
 
